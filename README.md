@@ -1,2 +1,3 @@
-# ejerciciosf1
-Hello Word!!
+# ejercicios fase 1
+
+
